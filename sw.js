@@ -1,5 +1,5 @@
 // Network-first with cache fallback so the app works offline once loaded.
-const CACHE = 'darts180-v7';
+const CACHE = 'darts180-v8';
 const ASSETS = ['./', './index.html', './styles.css', './app.js', './checkout.js', './speech.js', './manifest.webmanifest',
   './icons/icon.svg', './icons/icon-180.png', './icons/icon-192.png', './icons/icon-512.png'];
 
